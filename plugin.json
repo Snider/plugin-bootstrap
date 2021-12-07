@@ -1,0 +1,7 @@
+{
+		description_short: 'Test',
+		git_repo: 'https://github.com/Snider/plugin-bootstrap.git',
+		name: 'Test', 
+		readme_list: 'https://github.com/Snider/plugin-bootstrap#readme',
+		status: PluginStatus.ACTIVE
+}
